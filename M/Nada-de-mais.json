@@ -1,0 +1,27 @@
+
+{
+  "204655674651738112": {
+    "NOME-ROBLOX": "PlayerName1",
+    "PONTUAÇÃO": 100,
+    "TIME": "A",
+    "ESPECTADOR": "N",
+    "ELIMINADA": "N",
+    "DESCLASSIFICADO": "N"
+  },
+  "896604349311115304": {
+    "NOME-ROBLOX": "AdminName",
+    "PONTUAÇÃO": 0,
+    "TIME": "G",
+    "ESPECTADOR": "S",
+    "ELIMINADA": "N",
+    "DESCLASSIFICADO": "N"
+  },
+  "123456789012345678": {
+    "NOME-ROBLOX": "PlayerName2",
+    "PONTUAÇÃO": 75,
+    "TIME": "B",
+    "ESPECTADOR": "N",
+    "ELIMINADA": "N",
+    "DESCLASSIFICADO": "N"
+  }
+}
